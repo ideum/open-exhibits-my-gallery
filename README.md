@@ -4,6 +4,9 @@ My Gallery 対話型 (Interactive) is a fully functional interface that allows u
 
 This interface was developed by the Museum of Photographic Arts (MOPA), the National Institute of Information and Communications Technology (NICT), and the Pacific Rim Undergraduate Experience(PRIME) program at the University of California, San Diego (UCSD).
 
+VIDEO
+- https://vimeo.com/34926727
+
 Program Instructions:
 
 1. When you start the program you will be shown the credit screen and then you will see a button that says “Begin”. Click the button to get to the main screen.
