@@ -45,4 +45,14 @@ This concludes the instructions for using My Gallery Interactive. If you have an
 
 If have questions about this software, check the [Open Exhibits Software Support Forum](http://openexhibits.org/community/groups/oe-software-support/forum/) to submit inquiries to, and find answers from OE community members.
 
+Note: This Exhibit/Template requires Open Exhibits SDK 1.2.
+
+SUPPORTED OPERATING SYSTEMS
+- Windows 7
+- Windows 8
+- Mac OS X
+- 
+ASSOCIATED LANGUAGES
+- ActionScript 3
+
 Author: Lance Castillo
