@@ -51,7 +51,7 @@ SUPPORTED OPERATING SYSTEMS
 - Windows 7
 - Windows 8
 - Mac OS X
-- 
+
 ASSOCIATED LANGUAGES
 - ActionScript 3
 
