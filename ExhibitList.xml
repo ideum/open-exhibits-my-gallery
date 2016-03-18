@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExhibitViewer> <!-- parent node of the entire XML document -->
+	
+	<Content><!-- Lists all of the content in the program including metadata and location of images -->	
+	
+		<Source id="0">
+				<url>images/A.Creeper.in.the.Peradeniya.Gardens.jpg</url> <!-- Sets the file path to the full size image -->
+				<url>thumbs/A.Creeper.in.the.Peradeniya.Gardens.jpg</url> <!-- Sets the file path to the thumb size image -->
+				<url>bigthumbs/A.Creeper.in.the.Peradeniya.Gardens.jpg</url> <!-- Sets the file path to the half size image -->
+				<artist>Charles T. Scowen</artist> <!-- Artist's name -->
+				<bio>British, active Ceylon, late 19th century</bio> <!-- Bio of artist -->
+				<title>A Creeper in the Peradeniya Gardens, Ceylon</title> <!-- Title of image -->
+				<date>c. 1870</date> <!-- Date image was taken/created -->
+				<process>albumen print</process> <!-- Process of how image was created -->
+				<credit>Museum purchase with funds provided by MoPA Collectors Group</credit> <!-- Credit to donator of image -->
+		</Source>
+		
+		<Source id="1">
+				<url>images/A.Deserted.Framework.jpg</url>
+				<url>thumbs/A.Deserted.Framework.jpg</url>
+				<url>bigthumbs/A.Deserted.Framework.jpg</url>
+				<artist>Richard Throssel</artist>
+				<bio>American, 1882 - 1933</bio>
+				<title>A Deserted Framework</title>
+				<date>c. 1910</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Graham and Susan Nash</credit>
+		</Source>
+		
+		<Source id="2">
+				<url>images/After.the.Blizzard.jpg</url>
+				<url>thumbs/After.the.Blizzard.jpg</url>
+				<url>bigthumbs/After.the.Blizzard.jpg</url>
+				<artist>Alvin Langdon Coburn</artist>
+				<bio>American, 1882 - 1966</bio>
+				<title>After the Blizzard</title>
+				<date>1906</date>
+				<process>photogravure</process>
+				<credit>Gift of Terry Etherton</credit>
+		</Source>
+		
+		<Source id="3">
+				<url>images/Alcatraz.From.California.Street.jpg</url>
+				<url>thumbs/Alcatraz.From.California.Street.jpg</url>
+				<url>bigthumbs/Alcatraz.From.California.Street.jpg</url>
+				<artist>Carleton Watkins</artist>
+				<bio>American, 1829 - 1916</bio>
+				<title>Alcatraz from California Street</title>
+				<date>c. 1880</date>
+				<process>albumen print</process>
+				<credit>Gift of Prentice and Paul Sack</credit>
+		</Source>
+		
+		<Source id="4">
+				<url>images/Apache.Reaper.Drying.Wheat.jpg</url>
+				<url>thumbs/Apache.Reaper.Drying.Wheat.jpg</url>
+				<url>bigthumbs/Apache.Reaper.Drying.Wheat.jpg</url>
+				<artist>Edward Sheriff Curtis</artist>
+				<bio>American, 1868 - 1952</bio>
+				<title>Apache Reaper Drying Wheat, San Juan</title>
+				<date>c. 1900</date>
+				<process>bromide print</process>
+				<credit>Gift of Lorenzo Hernandez</credit>
+		</Source>
+		
+		<Source id="5">
+				<url>images/Artifully.Induced.Convulsions.ABCWhile.Lying.Down.jpg</url>
+				<url>thumbs/Artifully.Induced.Convulsions.ABCWhile.Lying.Down.jpg</url>
+				<url>bigthumbs/Artifully.Induced.Convulsions.ABCWhile.Lying.Down.jpg</url>
+				<artist>Eadweard J. Muybridge</artist>
+				<bio>British, 1830 - 1904</bio>
+				<title>Artifully Induced Convulsions ABCWhile Lying Down</title>
+				<date>1887</date>
+				<process>photogravure</process>
+				<credit>Gift of Joyce and Ted Strauss</credit>
+		</Source>
+				
+		<Source id="6">
+				<url>images/Bass.Cove.jpg</url>  <!-- 2006.006.001.png Not Working-->
+				<url>thumbs/Bass.Cove.jpg</url>
+				<url>bigthumbs/Bass.Cove.jpg</url>
+				<artist>Henry Hamilton Bennett</artist>
+				<bio>American, b. Canada, 1843 - 1908</bio>
+				<title>Bass Cove</title>
+				<date>19th century</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Jack and Beverly Waltman</credit>
+		</Source>
+				
+		<Source id="7">
+				<url>images/Buddhist.Priests.Worshipping.Tooth.jpg</url>
+				<url>thumbs/Buddhist.Priests.Worshipping.Tooth.jpg</url>
+				<url>bigthumbs/Buddhist.Priests.Worshipping.Tooth.jpg</url>
+				<artist>Charles T. Scowen</artist>
+				<bio>British, active Ceylon, late 19th century</bio>
+				<title>Buddhist Priests Worshipping Tooth</title>
+				<date>c. 1870</date>
+				<process>albumen print</process>
+				<credit>Museum purchase with funds provided by MoPA Collectors Group</credit>
+		</Source>
+				
+		<Source id="8">
+				<url>images/Czar.Nicholas.II.jpg</url>
+				<url>thumbs/Czar.Nicholas.II.jpg</url>
+				<url>bigthumbs/Czar.Nicholas.II.jpg</url>
+				<artist>C.L. Co.</artist>
+				<bio>German publishing company, active early 20th century</bio>
+				<title>Czar Nicholas II</title>
+				<date>1913</date>
+				<process>postcard</process>
+				<credit>Gift of Stephen White</credit>
+		</Source>
+				
+		<Source id="9">
+				<url>images/Carparisoned.Elephant.jpg</url>
+				<url>thumbs/Carparisoned.Elephant.jpg</url>
+				<url>bigthumbs/Carparisoned.Elephant.jpg</url>
+				<artist>Bourne and Shepherd</artist>
+				<bio>Indian photography studio, established 1866</bio>
+				<title>Caparisoned Elephant</title>
+				<date>1874-1876</date>
+				<process>albumen print</process>
+				<credit>Gift of the Catherine and Ralph Benkaim Collection</credit>
+		</Source>
+		
+		<Source id="10">
+				<url>images/Close.No.65.High.Street.jpg</url>
+				<url>thumbs/Close.No.65.High.Street.jpg</url>
+				<url>bigthumbs/Close.No.65.High.Street.jpg</url>
+				<artist>Thomas Annan</artist>
+				<bio>Scottish, 1829 - 1887</bio>
+				<title>Close, No. 65 High Street</title>
+				<date>1868</date>
+				<process>carbon print</process>
+				<credit>Museum purchase</credit>
+		</Source>
+
+		<Source id="11">
+				<url>images/Doffer.in.Glenallen.Mill.jpg</url>
+				<url>thumbs/Doffer.in.Glenallen.Mill.jpg</url>
+				<url>bigthumbs/Doffer.in.Glenallen.Mill.jpg</url>
+				<artist>Lewis Wickes Hine</artist>
+				<bio>American, 1874 - 1940</bio>
+				<title>Doffer in Glenallen Mill - Sept.</title>
+				<date>1911</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Daniel D. Bumstead</credit>
+		</Source>
+		
+		<Source id="12">
+				<url>images/Dorothy.jpg</url>
+				<url>thumbs/Dorothy.jpg</url>
+				<url>bigthumbs/Dorothy.jpg</url>
+				<artist>Gertrude Kasebier</artist>
+				<bio>American, 1852 - 1934</bio>
+				<title>Dorothy</title>
+				<date>1902</date>
+				<process>photogravure</process>
+				<credit>Gift of Michael and Joyce Axelrod</credit>
+		</Source>
+		
+		<Source id="13">
+				<url>images/El.Toros.jpg</url>
+				<url>thumbs/El.Toros.jpg</url>
+				<url>bigthumbs/El.Toros.jpg</url>
+				<artist>Alvin Langdon Coburn</artist>
+				<bio>American, 1882 - 1966</bio>
+				<title>El Toros</title>
+				<date>1907</date>
+				<process>gum platinotype</process>
+				<credit>Gift of Stephen White</credit>
+		</Source>
+	
+		<Source id="14">
+				<url>images/Elora.Interior.of.Indur.jpg</url>
+				<url>thumbs/Elora.Interior.of.Indur.jpg</url>
+				<url>bigthumbs/Elora.Interior.of.Indur.jpg</url>
+				<artist>Samuel Bourne</artist>
+				<bio>British, 1834 - 1912</bio>
+				<title>Elora, Interior of Indur Subha with Figure of Indra</title>
+				<date>1869</date>
+				<process>albumen print</process>
+				<credit>Gift of the Catherine and Ralph Benkaim Collection</credit>
+		</Source>
+		
+		<Source id="15">
+				<url>images/Etang.de.Corot.jpg</url>
+				<url>thumbs/Etang.de.Corot.jpg</url>
+				<url>bigthumbs/Etang.de.Corot.jpg</url>
+				<artist>Jean-Eugène-Auguste Atget</artist>
+				<bio>French, 1857 - 1927</bio>
+				<title>#678 - Etang de Corot, Ville d'Avray</title>
+				<date>c. 1909</date>
+				<process>albumen print</process>
+				<credit>Gift of Joyce and Ted Strauss</credit>
+		</Source>
+				
+		<Source id="16">
+				<url>images/Evelyn.Nesbit.Thaw.jpg</url>
+				<url>thumbs/Evelyn.Nesbit.Thaw.jpg</url>
+				<url>bigthumbs/Evelyn.Nesbit.Thaw.jpg</url>
+				<artist>Orval Hixon</artist>
+				<bio>American, 1884 - 1982</bio>
+				<title>Evelyn Nesbit Thaw, 1920</title>
+				<date>1920</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Wilson Centre for Photography</credit>
+		</Source>
+				
+		<Source id="17">
+				<url>images/The.Railway.jpg</url>
+				<url>thumbs/The.Railway.jpg</url>
+				<url>bigthumbs/The.Railway.jpg</url>
+				<artist>Pierre Dubreuil</artist>
+				<bio>French, 1872 - 1944</bio>
+				<title>Interpretation Picasso: The Railway</title>
+				<date>1911</date>
+				<process>photogravure</process>
+				<credit>Gift of Thomas Jacobson</credit>
+		</Source>
+				
+		<Source id="18">
+				<url>images/Giant.Bamboos.in.the.Peradeniya.Gardens.jpg</url>
+				<url>thumbs/Giant.Bamboos.in.the.Peradeniya.Gardens.jpg</url>
+				<url>bigthumbs/Giant.Bamboos.in.the.Peradeniya.Gardens.jpg</url>
+				<artist>Charles T. Scowen</artist>
+				<bio>British, active Ceylon, late 19th century</bio>
+				<title>Giant Bamboos in the Peradeniya Gardens</title>
+				<date>c. 1870</date>
+				<process>albumen print</process>
+				<credit>Museum purchase with funds provided by MoPA Collectors Group</credit>
+		</Source>
+				
+		<Source id="19">
+				<url>images/Katary.Falls.from.Below.jpg</url>
+				<url>thumbs/Katary.Falls.from.Below.jpg</url>
+				<url>bigthumbs/Katary.Falls.from.Below.jpg</url>
+				<artist>Edmund David Lyon</artist>
+				<bio>British, c. 1829 - 1891</bio>
+				<title>Katary Falls from Below</title>
+				<date>c. 1865-1871</date>
+				<process>albumen print</process>
+				<credit>Gift of the Catherine and Ralph Benkaim Collection</credit>
+		</Source>
+		
+		<Source id="20">
+				<url>images/Lady.Ruthven.jpg</url>
+				<url>thumbs/Lady.Ruthven.jpg</url>
+				<url>bigthumbs/Lady.Ruthven.jpg</url>
+				<artist>David Octavius Hill and Robert Adamson</artist>
+				<bio>Scottish, 1802 - 1870 / Scottish 1821 - 1848</bio>
+				<title>Lady Ruthven</title>
+				<date>c. 1845</date>
+				<process>photogravure</process>
+				<credit>Gift of Joseph David Isaacson</credit>
+		</Source>
+
+		<Source id="21">
+				<url>images/Lotowana.184.jpg</url>
+				<url>thumbs/Lotowana.184.jpg</url>
+				<url>bigthumbs/Lotowana.184.jpg</url>
+				<artist>J.S. Johnston</artist>
+				<bio>American, b. England or Ireland, c. 1839 - 1899</bio>
+				<title>Lotowana 184</title>
+				<date>c. 1890</date>
+				<process>printing-out-paper</process>
+				<credit>Gift of R. Joseph Monsen</credit>
+		</Source>
+		
+		<Source id="22">
+				<url>images/Madras.Railway.Engine.jpg</url>
+				<url>thumbs/Madras.Railway.Engine.jpg</url>
+				<url>bigthumbs/Madras.Railway.Engine.jpg</url>
+				<artist>James Mudd</artist>
+				<bio>British, 1821 - 1906</bio>
+				<title>Madras Railway Engine</title>
+				<date>c. 1865</date>
+				<process>unidentified</process>
+				<credit>Gift of Stephen White</credit>
+		</Source>
+		
+		<Source id="23">
+				<url>images/Mount.Horeb.Sinai.jpg</url>
+				<url>thumbs/Mount.Horeb.Sinai.jpg</url>
+				<url>bigthumbs/Mount.Horeb.Sinai.jpg</url>
+				<artist>Francis F. Frith</artist>
+				<bio>British, 1822 - 1898</bio>
+				<title>Mount Horeb - Sinai</title>
+				<date>1858</date>
+				<process>albumen print</process>
+				<credit>Gift of Joseph and Elaine Monsen</credit>
+		</Source>
+		
+		<Source id="24">
+				<url>images/Nicolaas.Henneman.Asleep.jpg</url>
+				<url>thumbs/Nicolaas.Henneman.Asleep.jpg</url>
+				<url>bigthumbs/Nicolaas.Henneman.Asleep.jpg</url>
+				<artist>William Henry Fox Talbot</artist>
+				<bio>British, 1800 - 1877</bio>
+				<title>Nicolaas Henneman Asleep, Lacock or Reading, England</title>
+				<date>early 1844-1845</date>
+				<process>modern salt print</process>
+				<credit>Purchased with funds from MoPA's Fox Talbot Committee</credit>
+		</Source>
+		
+		<Source id="25">
+				<url>images/Nynee.Tal.jpg</url>
+				<url>thumbs/Nynee.Tal.jpg</url>
+				<url>bigthumbs/Nynee.Tal.jpg</url>
+				<artist>Samuel Bourne</artist>
+				<bio>British, 1834 - 1912</bio>
+				<title>Nynee Tal, Artist's "Bit" Trees</title>
+				<date>1867</date>
+				<process>albumen print</process>
+				<credit>Gift of the Catherine and Ralph Benkaim Collection</credit>
+		</Source>
+				
+		<Source id="26">
+				<url>images/Painters.on.the.Brooklyn.Bridge.Suspender.Cables.jpg</url>
+				<url>thumbs/Painters.on.the.Brooklyn.Bridge.Suspender.Cables.jpg</url>
+				<url>bigthumbs/Painters.on.the.Brooklyn.Bridge.Suspender.Cables.jpg</url>
+				<artist>Eugene de Salignac</artist>
+				<bio>American, 1861 - 1943</bio>
+				<title>Painters on the Brooklyn Bridge Suspender Cables-October 7, 1914</title>
+				<date>1914</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of the Howe and Mohler Family, New York, NY</credit>
+		</Source>
+				
+		<Source id="27">
+				<url>images/Phases.and.Movements.jpg</url>
+				<url>thumbs/Phases.and.Movements.jpg</url>
+				<url>bigthumbs/Phases.and.Movements.jpg</url>
+				<artist>John Crane Dower</artist>
+				<bio>British, active 1820 - 1847</bio>
+				<title>Phases and Movements of the Moon</title>
+				<date>1846</date>
+				<process>engraving</process>
+				<credit>Museum purchase</credit>
+		</Source>
+				
+		<Source id="28">
+				<url>images/Photomontage.of.Women's.Faces.jpg</url>
+				<url>thumbs/Photomontage.of.Women's.Faces.jpg</url>
+				<url>bigthumbs/Photomontage.of.Women's.Faces.jpg</url>
+				<artist>Unknown artist</artist>
+				<bio>British, active 1820 - 1847</bio>
+				<title>Photomontage of Women's Faces</title>
+				<date>1850</date>
+				<process>albumen print</process>
+				<credit>Gift of Eugene & Dorothy Prakapas</credit>
+		</Source>
+				
+		<Source id="29">
+				<url>images/Plate.III.jpg</url>
+				<url>thumbs/Plate.III.jpg</url>
+				<url>bigthumbs/Plate.III.jpg</url>
+				<artist>William Henry Fox Talbot</artist>
+				<bio>British, 1800 - 1877</bio>
+				<title>Plate III - Articles of China</title>
+				<date>before January 1844</date>
+				<process>modern salt print</process>
+				<credit>Purchased with funds from MoPA's Fox Talbot Committee</credit>
+		</Source>
+		
+		<Source id="30">
+				<url>images/Plato.jpg</url>
+				<url>thumbs/Plato.jpg</url>
+				<url>bigthumbs/Plato.jpg</url>
+				<artist>Cassell &amp; Company</artist>
+				<bio>British publishing company, active 1848 - 1998</bio>
+				<title>Plato (after Nasmyth.)</title>
+				<date>1885</date>
+				<process>lithograph</process>
+				<credit>Museum purchase</credit>
+		</Source>
+	
+		<Source id="31">
+				<url>images/Plenty.Coos.jpg</url>
+				<url>thumbs/Plenty.Coos.jpg</url>
+				<url>bigthumbs/Plenty.Coos.jpg</url>
+				<artist>Richard Throssel</artist>
+				<bio>American, 1882 - 1933</bio>
+				<title>Plenty Coos</title>
+				<date>c. 1910</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Graham and Susan Nash</credit>
+		</Source>
+		
+		<Source id="32">
+				<url>images/Ponts.De.Nantes.jpg</url>
+				<url>thumbs/Ponts.De.Nantes.jpg</url>
+				<url>bigthumbs/Ponts.De.Nantes.jpg</url>
+				<artist>Jules Duclos</artist>
+				<bio>French, active mid 19th century</bio>
+				<title>Ponts de Nantes, Sur La Loire</title>
+				<date>1865</date>
+				<process>albumen print</process>
+				<credit>Gift of Stephen White</credit>
+		</Source>
+		
+		<Source id="33">
+				<url>images/Portrait.of.Clarence.H.White.jpg</url>
+				<url>thumbs/Portrait.of.Clarence.H.White.jpg</url>
+				<url>bigthumbs/Portrait.of.Clarence.H.White.jpg</url>
+				<artist>Edward Steichen</artist>
+				<bio>American, b. Luxembourg, 1879 - 1973</bio>
+				<title>Portrait of Clarence H. White</title>
+				<date>1905</date>
+				<process>photogravure</process>
+				<credit>Gift of Dorothy and Eugene Prakapas</credit>
+		</Source>
+		
+		<Source id="34">
+				<url>images/Post.mortem.Portrait.of.Infant.Girl.jpg</url>
+				<url>thumbs/Post.mortem.Portrait.of.Infant.Girl.jpg</url>
+				<url>bigthumbs/Post.mortem.Portrait.of.Infant.Girl.jpg</url>
+				<artist>Unknown artist</artist>
+				<bio>American, b. 1951</bio>
+				<title>Post-mortem Portrait of Infant Girl</title>
+				<date>1852</date>
+				<process>daguerreotype</process>
+				<credit>Gift of Stanley B. Burns</credit>
+		</Source>
+		
+		<Source id="35">
+				<url>images/Pyramides.de.Ghyzeh.jpg</url>
+				<url>thumbs/Pyramides.de.Ghyzeh.jpg</url>
+				<url>bigthumbs/Pyramides.de.Ghyzeh.jpg</url>
+				<artist>W. Hammerschmidt</artist>
+				<bio>German, d. 1869</bio>
+				<title>Pyramides de Ghyzéh, Vue Générale</title>
+				<date>c. 1860</date>
+				<process>albumen print</process>
+				<credit>Museum purchase</credit>
+		</Source>
+				
+		<Source id="36">
+				<url>images/Pyxie.207.jpg</url>
+				<url>thumbs/Pyxie.207.jpg</url>
+				<url>bigthumbs/Pyxie.207.jpg</url>
+				<artist>J.S. Johnston</artist>
+				<bio>American, b. England or Ireland, c. 1839 - 1899</bio>
+				<title>Pyxie 207</title>
+				<date>c. 1890</date>
+				<process>printing-out-paper</process>
+				<credit>Gift of R. Joseph Monsen</credit>
+		</Source>
+				
+		<Source id="37">
+				<url>images/Raw.Hide.Gear.Blank.jpg</url>
+				<url>thumbs/Raw.Hide.Gear.Blank.jpg</url>
+				<url>bigthumbs/Raw.Hide.Gear.Blank.jpg</url>
+				<artist>Unknown artist</artist>
+				<bio>Japanese, b. 1948</bio>
+				<title>Raw Hide Gear Blank, 453 pounds from Holbrook Raw Hide Co. Providence R.I.</title>
+				<date>1900</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Stephen White</credit>
+		</Source>
+				
+		<Source id="38">
+				<url>images/Royal.Gorge.jpg</url>
+				<url>thumbs/Royal.Gorge.jpg</url>
+				<url>bigthumbs/Royal.Gorge.jpg</url>
+				<artist>William Henry Jackson</artist>
+				<bio>American, 1843 - 1942</bio>
+				<title>Royal Gorge, Grand Canyon of the Arkansas</title>
+				<date>1880s</date>
+				<process>albumen print</process>
+				<credit>Museum purchase with funds provided by MoPA Collectors Group</credit>
+		</Source>
+				
+		<Source id="39">
+				<url>images/Strikes.One.With.a.Lance.jpg</url>
+				<url>thumbs/Strikes.One.With.a.Lance.jpg</url>
+				<url>bigthumbs/Strikes.One.With.a.Lance.jpg</url>
+				<artist>Richard Throssel</artist>
+				<bio>American, 1882 - 1933</bio>
+				<title>Strikes One with a Lance</title>
+				<date>c. 1910</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Graham and Susan Nash</credit>
+		</Source>
+		
+		<Source id="40">
+				<url>images/Portrait.of.Horatia.Maria.jpg</url>
+				<url>thumbs/Portrait.of.Horatia.Maria.jpg</url>
+				<url>bigthumbs/Portrait.of.Horatia.Maria.jpg</url>
+				<artist>William Henry Fox Talbot</artist>
+				<bio>British, 1800 - 1877</bio>
+				<title>Portrait of Horatia Maria Feilding and Thomas Gaisford</title>
+				<date>after 1843</date>
+				<process>modern salt print</process>
+				<credit>Purchased with funds from MoPA's Fox Talbot Committee</credit>
+		</Source>
+
+		<Source id="41">
+				<url>images/The.Fisherman.jpg</url>
+				<url>thumbs/The.Fisherman.jpg</url>
+				<url>bigthumbs/The.Fisherman.jpg</url>
+				<artist>Edward Sheriff Curtis</artist>
+				<bio>American, 1868 - 1952</bio>
+				<title>The Fisherman - Wishram</title>
+				<date>1909</date>
+				<process>orotone on glass</process>
+				<credit>Gift of the Schutz Family</credit>
+		</Source>
+		
+		<Source id="42">
+				<url>images/Thomas.Wallace.jpg</url>
+				<url>thumbs/Thomas.Wallace.jpg</url>
+				<url>bigthumbs/Thomas.Wallace.jpg</url>
+				<artist>Unknown artist</artist>
+				<bio>American, 1903 - 1990</bio>
+				<title>Thomas Wallace. June 4th, 1910</title>
+				<date>1910</date>
+				<process>gelatin silver print</process>
+				<credit>Anonymous gift</credit>
+		</Source>
+		
+		<Source id="43">
+				<url>images/Tractor.Opaqued.jpg</url>
+				<url>thumbs/Tractor.Opaqued.jpg</url>
+				<url>bigthumbs/Tractor.Opaqued.jpg</url>
+				<artist>Unknown artist</artist>
+				<bio>American, 1874 - 1940</bio>
+				<title>Tractor opaqued</title>
+				<date>c. 1910</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Stephen White</credit>
+		</Source>
+		
+		<Source id="44">
+				<url>images/Untitled.(man.and.woman).jpg</url>
+				<url>thumbs/Untitled.(man.and.woman).jpg</url>
+				<url>bigthumbs/Untitled.(man.and.woman).jpg</url>
+				<artist>Unknown artist</artist>
+				<bio>American, b. Latvia, 1906 - 1979</bio>
+				<title>Untitled (man and woman with man in the moon)</title>
+				<date>c. 1907-1918</date>
+				<process>postcard</process>
+				<credit>Anonymous gift</credit>
+		</Source>
+		
+		<Source id="45">
+				<url>images/Untitled.(Snowflake).jpg</url>
+				<url>thumbs/Untitled.(Snowflake).jpg</url>
+				<url>bigthumbs/Untitled.(Snowflake).jpg</url>
+				<artist>Wilson A. Bentley</artist>
+				<bio>American, 1865 - 1931</bio>
+				<title>Untitled (Snowflake)</title>
+				<date>c. 1905</date>
+				<process>gelatin silver photomicrograph print</process>
+				<credit>Museum purchase with funds provided by MoPA Photo Forum</credit>
+		</Source>
+				
+		<Source id="46">
+				<url>images/Untitled.(sunset.ride).jpg</url>
+				<url>thumbs/Untitled.(sunset.ride).jpg</url>
+				<url>bigthumbs/Untitled.(sunset.ride).jpg</url>
+				<artist>Richard Throssel</artist>
+				<bio>American, 1882 - 1933</bio>
+				<title>Untitled (sunset ride)</title>
+				<date>c. 1910</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Graham and Susan Nash</credit>
+		</Source>
+				
+		<Source id="47">
+				<url>images/Untitled.(Three.Native.Americans).jpg</url>
+				<url>thumbs/Untitled.(Three.Native.Americans).jpg</url>
+				<url>bigthumbs/Untitled.(Three.Native.Americans).jpg</url>
+				<artist>Richard Throssel</artist>
+				<bio>American, 1882 - 1933</bio>
+				<title>Untitled (Three Native Americans watering their horses)</title>
+				<date>c. 1910</date>
+				<process>gelatin silver print</process>
+				<credit>Gift of Graham and Susan Nash</credit>
+		</Source>
+				
+		<Source id="48">
+				<url>images/Viola.Pubescens.jpg</url>
+				<url>thumbs/Viola.Pubescens.jpg</url>
+				<url>bigthumbs/Viola.Pubescens.jpg</url>
+				<artist>Edwin Hale Lincoln</artist>
+				<bio>American, 1848 - 1938</bio>
+				<title>Viola Pubescens, Downy Yellow Violet</title>
+				<date>1905</date>
+				<process>platinum print</process>
+				<credit>Gift of Lee Gallery, Winchester, MA</credit>
+		</Source>
+				
+		<Source id="49">
+				<url>images/The.Palace.Interior.of.the.Dewan.i.Kass.jpg</url>
+				<url>thumbs/The.Palace.Interior.of.the.Dewan.i.Kass.jpg</url>
+				<url>bigthumbs/The.Palace.Interior.of.the.Dewan.i.Kass.jpg</url>
+				<artist>Samuel Bourne</artist>
+				<bio>British, 1834 - 1912</bio>
+				<title>The Palace interior of the Dewan-i-Kass</title>
+				<date>1866</date>
+				<process>albumen print</process>
+				<credit>Gift of the Catherine and Ralph Benkaim Collection</credit>
+		</Source>
+	
+	</Content>
+	
+	
+	<GlobalSettings>
+		<maxScale>2.5</maxScale> <!-- The maximum size the images can zoom to, set relative to their full size within the application (set by <scale> or <imagesNormalize>). For instance, setting maxScale to 2.5 will allow the user to zoom the videos to 2.5 times their full size. -->
+		<minScale>.5</minScale> <!-- The minimum size the images can zoom to, set relative to their full size within the application. For instance, setting minScale to .5 will allow the user to shrink the images to half their full size. -->
+		<infoPadding>15</infoPadding> <!-- Sets the padding around the description information when the info button is selected, and the spacing between the thumbnail, the main description box, and author info. -->
+		<horizontalPadding1>10</horizontalPadding1> <!-- Sets the padding between images in the scroll bar area -->
+		<horizontalPadding2>160</horizontalPadding2> <!-- Sets the start location of the second column of images (the one to the right) --> 
+		<outputFile>C:\Users\lcast\Documents\1PRIME\My Gallery Interactive (Final)\SavedCollections.xml</outputFile> <!--Sets the location where collections will be saved -->
+	</GlobalSettings>
+
+
+</ExhibitViewer>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personalCollections>
+  <collection id="1">
+    <title>The Art of Photography</title>
+    <name>Vivian Kung Haga</name>
+    <description>There has been a long debate around photography as a science or an art form. These images speak to the art of photography and explore the themes of beauty, creativity, imagination, and the mysterious.</description>
+    <image>15</image>
+    <image>4</image>
+    <image>25</image>
+    <image>48</image>
+    <image>39</image>
+    <image>16</image>
+    <image>6</image>
+    <image>17</image>
+  </collection>
+  <collection id="2">
+    <title>Triangles, Lines, Circles and Shapes. Oh No!</title>
+    <name>Vivian Kung Haga</name>
+    <description>These images play with the ideas of geometry and speak to how versatile photography can be as a visual art form.</description>
+    <image>21</image>
+    <image>1</image>
+    <image>6</image>
+    <image>35</image>
+    <image>32</image>
+    <image>18</image>
+    <image>26</image>
+    <image>29</image>
+    <image>30</image>
+    <image>27</image>
+  </collection>
+</personalCollections>
